@@ -1,0 +1,10 @@
+Week 1:
+- Day 1: Setup + Planning + LinkedIn post
+- Day 2: HTML + CSS Refresh + Profile Card
+- Day 3: Responsive Navbar
+- Day 4: JavaScript Basics + Logic problems
+- Day 5: DOM Manipulation
+- Day 6: Build a Mini Calculator
+- Day 7: Logic + Weekly Recap + LinkedIn post
+
+Weeks 2–4: Projects + JS Concepts + DSA + Internship prep

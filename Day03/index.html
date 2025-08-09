@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#0ea5a4" />
+    <title>Guess the number</title>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="main-heading">Guess the number</h1>
+    </header>
+
+    <main id="main-container">
+      <section class="guessing-container">
+        <p class="heading-text">
+          i am thinking of a number between 1-100. can you guess it?
+        </p>
+
+        <div class="input-btn-container">
+          <input type="text" id="user-input" />
+
+          <button class="btn">Guess</button>
+        </div>
+
+        <h3 class="guess">No.Of Guesses: <span id="no-guess">0</span></h3>
+        <h3 class="guess">
+          Guessed number are: <br />
+          <span id="guessed-no"></span>
+        </h3>
+
+        <div class="instructions">Too low.Tray Again</div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1 class="heading">
+        <span>b</span>ody <span>m</span>ass <span>i</span>ndex Calculator
+      </h1>
+    </header>
+
+    <main>
+      <div class="container flex">
+        <div class="inner-container flex">
+          <input type="number" id="height" required />
+          <label for="height">Hight(cm)</label>
+
+          <input type="number" id="weight" required />
+          <label for="weight">Weight(kg)</label>
+        </div>
+
+        <button class="btn">Submit</button>
+      </div>
+    </main>
+
+    <section>
+      <p class="show-result"></p>
+      <p class="count"></p>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>

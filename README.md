@@ -1,8 +1,13 @@
-# 🚀 30 Days of Frontend with JavaScript
+# 🚀 30 Days of Frontend Development with JavaScript — Internship Preparation Plan
 
-Hi, I'm Aniruddha — and this is my 30-day journey to strengthen my **frontend development skills** using **JavaScript**, **HTML**, and **CSS**.
+Hi, I'm Aniruddha — and this is my **30-day journey** to strengthen my **frontend development skills** with **JavaScript, HTML, and CSS** while preparing for internships.
 
-Each day has its own folder with starter files (`index.html`, `style.css`, and `script.js`) for building small projects, solving logic problems, or practicing UI components.
+Each day includes:
+
+- **Daily Problems to Solve** (Logic & Algorithm Practice)
+- **One Mini Project** (Real-world HTML/CSS/JS)
+- **GitHub Push** (Track progress publicly)
+- **LinkedIn & X Post** (Build personal brand)
 
 ---
 

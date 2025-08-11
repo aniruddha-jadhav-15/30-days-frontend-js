@@ -67,4 +67,4 @@ function sumEvenNumbers(arr) {
   }
   return sum;
 }
-console.log(sumEvenNumbers([10, 15, 20, 25, 30])); // 60
+console.log(sumEvenNumbers([1, 15, 20, 25, 30])); // 50
